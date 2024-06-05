@@ -25,9 +25,13 @@ link: https://basedosdados.org/dataset/96eab476-5d30-459b-82be-f888d4d0d6b9?tabl
 3. Conhecendo os dados
 4. Validação dos dados
 
-     A validação dos dados foi feito utilizando o boxplot para cada setor em relação a nota de IDEB e as notas de matéria base como língua portuguesa e matemática
+   A validação dos dados foi feito utilizando o boxplot para cada setor em relação a nota de IDEB e as notas de matéria base como língua portuguesa e matemática
    
 6. Análisando as notas dos IDEB para cada rede de escola por ano
-7. Estudo dos níveis de matemática e português por rede 
+
+   Para fazer a análise temporal das notas IDEB em relação as redes, foi feita utilizando gráfico de linhas, assim foi utilziado a biblioteca matplotlib e seaborn, nela foi feita por 2 métodos, a primeira vez foi feita criando o data set para cada tipo de rede e em seguida criando o gráfico separadamente, o segundo método foi utilizando o laço for e em seguida criando gráficos para cada tipo de rede para que possamos comprar os gráficos de forma mais fácil.
+   Assim o segundo método consistiu a criação de um um dicionário para cada rede e em seguida um laço duplo para a criação de gráficos para cada parte da matriz de 2x2 e por fim um laço duplo para facilitar a edição de colocar linhas pontilhadas e os valores do eixos X
+   
+8. Estudo dos níveis de matemática e português por rede 
 
 

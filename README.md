@@ -23,7 +23,10 @@ link: https://basedosdados.org/dataset/96eab476-5d30-459b-82be-f888d4d0d6b9?tabl
    -> Obs: os dados que foi importando no Collab vem direto do meu Drive, portanto para rodar em outra máquina é importante baixar os dados, inserir no collab e em seguinda mudar o caminho do 'pd_read'
    
 3. Conhecendo os dados
-4. Validação dos dados
+
+   Para conhecer os dados foi utlizando .info para observar a natureza dos dados e se há algum tipo dados nulos, além disso, foi utilizado um laço para ler cada coluna em seguida usado .unique para observar cada valor presente em cada coluna, isso, para obervar os valores nulos e como são separados os valores de cada coluna.
+   
+5. Validação dos dados
 
    A validação dos dados foi feito utilizando o boxplot para cada setor em relação a nota de IDEB e as notas de matéria base como língua portuguesa e matemática
    

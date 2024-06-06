@@ -10,7 +10,7 @@ Manipulação dos dados: Pandas
 
 Gráficos: Seaborn, Matplotlib, Plotly.express
 ## Base de dados
-base de dados públicos retirado denro do site Basededados.org
+Base de dados públicos retirado denro do site Basededados.org
 
 link: https://basedosdados.org/dataset/96eab476-5d30-459b-82be-f888d4d0d6b9?table=bc84dea9-1126-4423-86d2-8835e6b19a72
 
@@ -19,6 +19,8 @@ link: https://basedosdados.org/dataset/96eab476-5d30-459b-82be-f888d4d0d6b9?tabl
 <div align="center">
 <img src="https://github.com/renanwta/IDEB/assets/161327900/7b90c3aa-9bdd-4830-b5cf-4509ad09df55" width="1000px" />
 </div>
+
+A partir dos resultados é possível observar que durantes os anos houve um aprimoramento nos ensinos públicos, estaduais e federais, porém ainda infeiror a nota 6, já as rede de escolas privadas sempre manteve próximo da nota 6 desde o ínicio, porém não teve uma melhoria igual as das outras sedes.
 
 # Step by step
 1. Importação dos dados

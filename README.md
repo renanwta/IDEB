@@ -16,6 +16,9 @@ link: https://basedosdados.org/dataset/96eab476-5d30-459b-82be-f888d4d0d6b9?tabl
 
 
 # Resultados
+<div align="center">
+<img src="https://github.com/renanwta/IDEB/assets/161327900/7b90c3aa-9bdd-4830-b5cf-4509ad09df55" width="1000px" />
+</div>
 
 # Step by step
 1. Importação dos dados

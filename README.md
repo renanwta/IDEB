@@ -40,6 +40,9 @@ A partir dos resultados é possível observar que durantes os anos houve um apri
    Para fazer a análise temporal das notas IDEB em relação as redes, foi feita utilizando gráfico de linhas, assim foi utilziado a biblioteca matplotlib e seaborn, nela foi feita por 2 métodos, a primeira vez foi feita criando o data set para cada tipo de rede e em seguida criando o gráfico separadamente, o segundo método foi utilizando o laço for e em seguida criando gráficos para cada tipo de rede para que possamos comprar os gráficos de forma mais fácil.
    Assim o segundo método consistiu a criação de um um dicionário para cada rede e em seguida um laço duplo para a criação de gráficos para cada parte da matriz de 2x2 e por fim um laço duplo para facilitar a edição de colocar linhas pontilhadas e os valores do eixos X
    
-8. Estudo dos níveis de matemática e português por rede 
+8. Teste de hipóteses
+   Para ter maior garantia que as notas da Rede Privada é maior que a das demais redes foi feita um teste de hipóteses para se confirmar.
+   Assim a partir de testes paramétricos para duas população chegamos no resultado que a rede privada possui a sua média de notas maiores que as demais redes com 95% de certeza
+ 
 
 

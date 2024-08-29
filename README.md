@@ -4,6 +4,9 @@
 A base estudada está relacionada a um dos principais exames nacional feitos dentro do Brasil, o IDEB (Índice de Desenvolvimento da Educação do Básica) é um indicador criado pelo governo federal para medir e obsrvar a qualidade do ensino público, federal, estadual e partícular. Basicamente a nota desse indicador vária entre 0 e 10 e tem como base o Fluxo de Aluno (taxade aprovação) e a Aprovação (São os resultado do Saeb e Aneb que são as notas das redes públicas e partículares).
 A partir disso, foi estímulado a entender como as notas de cada sertor de ensino se comportava ao longo do tempo e se era possível uma conclusão a partir dos gráficos obtidos.
 
+# Objetivo
+O objetivo desse estudo é a criação de um EDA (Exploratory Data Analysis) onde será feito a exploração dos dados para obter conhecimento sobre os dataset utilizando gráficos de linhas, boxplots e utilizando técnicas de estatística inferencial como a utilização de testes de hipóteses.
+
 # Ferramentas
 ## Python
 Manipulação dos dados: Pandas
